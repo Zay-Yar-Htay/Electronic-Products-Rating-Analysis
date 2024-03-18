@@ -13,7 +13,7 @@
 The "Electronic Products Rating Analysis" project aimed to delve into customer reviews and ratings of electronic products across various categories and brands. By employing analytical techniques and utilizing Power BI for data visualization, the project sought to derive actionable insights for businesses operating in the electronic products market.
 
 **Data Collection and Preparation:**
-The dataset encompassed information from diverse electronic products, including details like brand, product category, review ratings, recommendation status, and product features such as color and dimensions. The data underwent rigorous cleaning and preprocessing to ensure accuracy and consistency.
+The dataset provided by ONYX Data and it encompassed information from diverse electronic products, including details like brand, product category, review ratings, recommendation status, and product features such as color and dimensions with a total record of 7,299. The data underwent rigorous cleaning and preprocessing to ensure accuracy and consistency.
 
 **Analysis Goals:**
 The project was designed to address several key business questions:
