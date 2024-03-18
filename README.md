@@ -1,4 +1,4 @@
-![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/d7de4606-b4d3-4164-b59e-d8c0a84c52df)# Electronic-Products-Rating-Analysis
+# Electronic-Products-Rating-Analysis
 
 ## Table Of Contents
 
