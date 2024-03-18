@@ -1,12 +1,12 @@
-# Electronic-Products-Rating-Analysis
+![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/d7de4606-b4d3-4164-b59e-d8c0a84c52df)# Electronic-Products-Rating-Analysis
 
 ## Table Of Contents
 
 1. [Project Overview](#project-overview)
 2. [Tools](#tools)
-3. [Business Questions](#business-questions)
-4. [Visualization](#visualization)
-5. [Insights and Recommendation](#insights-and-recommendation)
+3. [Visualization](#visualization)
+4. [Insights and Recommendation](#insights-and-recommendation)
+
 
 ## Project Overview
 **Introduction:**
@@ -24,3 +24,44 @@ The project was designed to address several key business questions:
 
 **Methodology:**
 The analysis involved statistical examination and visualization techniques to uncover patterns, trends, and correlations within the dataset. Power BI was utilized to conduct in-depth exploratory data analysis and to create interactive reports for comprehensive insights.
+
+
+## Tools
+* Power BI - Analyzing and Creating Interactive Report
+* Power Point - Report and Dashboard Design
+
+## Visualization
+![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/0364cfb2-05f4-4802-b560-ac41bea72082)
+
+
+## Insights and Recommendation
+**Key Insights:**
+
+1. Relationship between Ratings and Recommendation Status:
+* Products with higher ratings tend to have a higher recommendation status, indicating a positive correlation between ratings and recommendations.
+* A significant portion of reviews rated 5 stars were recommended, underlining the importance of positive reviews in influencing purchasing decisions.
+
+2. Brand Satisfaction across Categories:
+* Brands like Sony, Logitech, and JBL emerged with high average ratings across various product categories, signifying strong customer satisfaction.
+* Variations in customer satisfaction were observed across different categories, with certain brands excelling in specific product segments.
+
+3. Impact of Product Features on Ratings:
+* Product features such as color and dimensions showcased varying effects on customer ratings.
+* Multicolor products tended to receive higher average ratings, suggesting a preference for diverse color options among consumers.
+* Products with specific dimensions, particularly within certain ranges, correlated with higher customer satisfaction, highlighting the importance of product design and specifications.
+
+**Recommendations:**
+1. Enhance Product Quality and Customer Experience:
+* Focus on maintaining product quality to consistently garner positive reviews and recommendations.
+* Prioritize customer feedback and implement improvements to address any identified issues promptly.
+
+2. Brand Differentiation and Marketing Strategies:
+* Leverage high customer satisfaction levels to differentiate the brand and capitalize on market opportunities.
+* Tailor marketing strategies to highlight brand strengths and unique selling propositions across different product categories.
+
+3. Customization and Innovation in Product Design:
+* Offer a diverse range of product colors to cater to varied consumer preferences.
+* Invest in innovative product design and features to enhance overall customer satisfaction and competitiveness in the market.
+
+**Conclusion:**
+The "Electronic Products Rating Analysis" project provides valuable insights into customer perceptions and preferences within the electronic products market. By leveraging data-driven strategies and insights derived from Power BI visualization, businesses can optimize product offerings, enhance customer satisfaction, and drive growth in the dynamic electronic products landscape.
