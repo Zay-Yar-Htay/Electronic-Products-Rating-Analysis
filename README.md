@@ -31,7 +31,7 @@ The analysis involved statistical examination and visualization techniques to un
 * Power Point - Report and Dashboard Design
 
 ## Visualization
-![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/0364cfb2-05f4-4802-b560-ac41bea72082)
+![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/c632f6eb-49fe-4a20-a264-7496c8c8bdd7)
 
 
 ## Insights and Recommendation
@@ -46,9 +46,8 @@ The analysis involved statistical examination and visualization techniques to un
 * Variations in customer satisfaction were observed across different categories, with certain brands excelling in specific product segments.
 
 3. Impact of Product Features on Ratings:
-* Product features such as color and dimensions showcased varying effects on customer ratings.
+* Product features such as color showcased varying effects on customer ratings.
 * Multicolor products tended to receive higher average ratings, suggesting a preference for diverse color options among consumers.
-* Products with specific dimensions, particularly within certain ranges, correlated with higher customer satisfaction, highlighting the importance of product design and specifications.
 
 **Recommendations:**
 1. Enhance Product Quality and Customer Experience:
