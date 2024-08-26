@@ -17,7 +17,7 @@ Key components of the dataset include:
 * **Customer Reviews:** Extensive review data, including ratings, recommendation status, and review dates, allows for deep analysis.
 * **Product Features:** Standardized features like color and dimensions enable consistent analysis across various products.
 
-This project aimed to generate actionable insights that could guide product strategy, enhance customer satisfaction, and support data-driven decision-making in marketing and product development. The analysis focus on answering key business questions, such as the relationship between product ratings and recommendations, identifying brands that lead in customer satisfaction, and understanding the impact of specific product features on customer reviews.
+This project aimed to generate actionable insights that could guide product strategy, enhance customer satisfaction, and support data-driven decision-making in marketing and product development. The analysis focuses on answering key business questions, such as the relationship between product ratings and recommendations, identifying brands that lead in customer satisfaction, and understanding the impact of specific product features on customer reviews and ratings.
 
 
 ## Tools and Methodologies
