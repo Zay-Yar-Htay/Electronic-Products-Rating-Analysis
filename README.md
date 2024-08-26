@@ -1,40 +1,34 @@
-# Electronic-Products-Rating-Analysis
+# Electronic Products Data Ratings Analysis
 
 ## Table Of Contents
 
 1. [Project Overview](#project-overview)
-2. [Tools](#tools)
-3. [Visualization](#visualization)
-4. [Insights and Recommendation](#insights-and-recommendation)
+2. [Tools and Methodologies](#tools-and-methodologies)
+3. [Business Questions](#business-questions)
+4. [Visualization](#visualization)
+5. [Insights and Recommendations](#insights-and-recommendations)
 
 
 ## Project Overview
-**Introduction:**
-The "Electronic Products Rating Analysis" project aimed to delve into customer reviews and ratings of electronic products across various categories and brands. By employing analytical techniques and utilizing Power BI for data visualization, the project sought to derive actionable insights for businesses operating in the electronic products market.
+This project focuses on analyzing the product dataset provided by Onyx Data to explore key factors influencing customer satisfaction, product recommendations, and the impact of product features on reviews and ratings. The dataset includes detailed attributes such as brand names, categories, colors, dimensions, and customer reviews, offering a rich source of information to explore how different factors influence product ratings and consumer behavior.
 
-**Data Collection and Preparation:**
-The dataset provided by ONYX Data and it encompassed information from diverse electronic products, including details like brand, product category, review ratings, recommendation status, and product features such as color and dimensions with a total record of 7,299. The data underwent rigorous cleaning and preprocessing to ensure accuracy and consistency.
+Key components of the dataset include:
+* **Product Details:** Each product is meticulously cataloged, with information on brand, dimensions, color, and manufacturer.
+* **Customer Reviews:** Extensive review data, including ratings, recommendation status, and review dates, allows for deep analysis.
+* **Product Features:** Standardized features like color and dimensions enable consistent analysis across various products.
 
-**Analysis Goals:**
-The project was designed to address several key business questions:
-
-1. Understanding the relationship between product ratings and recommendation status.
-2. Identifying brands with the highest average customer satisfaction and analyzing variations across different product categories.
-3. Exploring how product features, such as color and dimensions, influence reviews and ratings.
-
-**Methodology:**
-The analysis involved statistical examination and visualization techniques to uncover patterns, trends, and correlations within the dataset. Power BI was utilized to conduct in-depth exploratory data analysis and to create interactive reports for comprehensive insights.
+This project aimed to generate actionable insights that could guide product strategy, enhance customer satisfaction, and support data-driven decision-making in marketing and product development. The analysis focus on answering key business questions, such as the relationship between product ratings and recommendations, identifying brands that lead in customer satisfaction, and understanding the impact of specific product features on customer reviews.
 
 
-## Tools
-* Power BI - Analyzing and Creating Interactive Report
-* Power Point - Report and Dashboard Design
+## Tools and Methodologies
+
+## Business Questions
 
 ## Visualization
 ![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/c632f6eb-49fe-4a20-a264-7496c8c8bdd7)
 
 
-## Insights and Recommendation
+## Insights and Recommendations
 **Key Insights:**
 
 1. Relationship between Ratings and Recommendation Status:
