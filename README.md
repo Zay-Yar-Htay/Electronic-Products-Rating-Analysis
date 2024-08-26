@@ -21,7 +21,7 @@ This project aimed to generate actionable insights that could guide product stra
 
 
 ## Tools and Methodologies
-To efficiently manage and analyze the product review data provided by Onyx, I utilized Power BI for data processing, analysis, visualization, and reporting. The choice of Power BI was driven by the need for robust data handling, interactive reporting capabilities, and the ability to uncover key business insights. Below is a detailed breakdown of how the tool was employed throughout the project.
+To efficiently manage and analyze the product review data provided by Onyx, I utilized Power BI for data profiling, pre-processing, analysis, visualization, and reporting. The choice of Power BI was driven by the need for robust data handling, interactive reporting capabilities, and the ability to uncover key business insights. Below is a detailed breakdown of how the tool was employed throughout the project.
 
 * **Data Profiling and Exploration**
   * Power BI was leveraged for initial data inspection and profiling. This step involved exploring the dataset to understand its structure, identifying data quality issues such as missing values or inconsistencies, and gaining an overall sense of the data before moving on to more detailed analysis.
