@@ -23,6 +23,9 @@ This project aimed to generate actionable insights that could guide product stra
 ## Tools and Methodologies
 
 ## Business Questions
+1. What is the relationship between product ratings and recommendation status?
+2. Which brands have the highest average customer satisfaction, and how does it vary across different product categories?
+3. How do product features (like color or dimensions) influence reviews and ratings?
 
 ## Visualization
 ![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/c632f6eb-49fe-4a20-a264-7496c8c8bdd7)
