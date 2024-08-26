@@ -21,6 +21,24 @@ This project aimed to generate actionable insights that could guide product stra
 
 
 ## Tools and Methodologies
+To efficiently manage and analyze the product review data provided by Onyx, I utilized Power BI for data processing, analysis, visualization, and reporting. The choice of Power BI was driven by the need for robust data handling, interactive reporting capabilities, and the ability to uncover key business insights. Below is a detailed breakdown of how the tool was employed throughout the project.
+
+* **Data Profiling and Exploration**
+  * Power BI was leveraged for initial data inspection and profiling. This step involved exploring the dataset to understand its structure, identifying data quality issues such as missing values or inconsistencies, and gaining an overall sense of the data before moving on to more detailed analysis.
+
+* **Data Preprocessing**
+  * Using Power BI's data transformation capabilities, including Power Query, the dataset was cleaned and prepared for analysis. This process involved handling missing values, converting values such as data decoding (converting quantitative to categorical transformation in rating attribute), and performing necessary transformations such as creating groups and hierarchies for product categories, features, etc.. to ensure the dataset was ready for analysis and visual purposes.
+
+* **Data Analysis**
+  * Conducted in-depth analysis directly within Power BI using DAX functions and custom measures to uncover patterns and relationships in the data. Key insights included exploring the relationship between product ratings and recommendation status, identifying top-performing brands, and analyzing the influence of product features on customer reviews.
+
+* **Interactive Report Development**
+  * Created visualizations, added slicers, and used DAX functions to build an interactive report that allowed end users to explore the data.
+  * Developed reports that visualized key metrics such as average customer satisfaction, top-rated products, and feature-based analysis, providing a comprehensive view of the data.
+
+* **Report Publishing**
+  * Published the final report to Power BI Service, enabling users to access, interact with, and derive insights from the data.
+
 
 ## Business Questions
 1. What is the relationship between product ratings and recommendation status?
