@@ -46,6 +46,7 @@ To efficiently manage and analyze the product review data provided by Onyx, I ut
 3. How do product features (like color or dimensions) influence reviews and ratings?
 
 ## Visualization
+[Interactive Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjRjNjFiNWYtODI2Ny00NTY4LTkxNzgtOWYxNjQzNTAzODA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/c632f6eb-49fe-4a20-a264-7496c8c8bdd7)
 
 
